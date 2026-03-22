@@ -63,7 +63,7 @@ def rodar():
         for e in erros:
             print("-", e)
     else:
-        print("Senha bem construída 👍")
+        print("Senha bem construída ")
 
 
 if __name__ == "__main__":
