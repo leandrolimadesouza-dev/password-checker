@@ -1,6 +1,6 @@
 # Verificador de senha
 
-Script simples em Python que dá uma analisada na qualidade de uma senha.
+Script que verifica se senha atende os requisitos
 
 ## O que ele verifica
 - tamanho mínimo
@@ -8,7 +8,7 @@ Script simples em Python que dá uma analisada na qualidade de uma senha.
 - presença de números
 - caracteres especiais
 
-## Como rodar
+## Como fazer o código rodar?
 
 ```bash
 python main.py
